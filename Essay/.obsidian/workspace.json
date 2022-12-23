@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "35da4ad0a478fd39",
+    "type": "split",
+    "children": [
+      {
+        "id": "b62696f91d116375",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71e785ac990f7f09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "对于世俗化的一些小想法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "684064aac21fe71e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a46228cd913b663",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e17b61a47a69472b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4bd28af44c9abf6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "894c8391430a7e67",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32f8fd7046c7c852",
+    "type": "split",
+    "children": [
+      {
+        "id": "25d608e44755ee50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2645777e7ba9b04e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "对于世俗化的一些小想法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "330004b86fa6c2b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "对于世俗化的一些小想法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4aefd1533d542d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "982274f7b0954313",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "对于世俗化的一些小想法.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "71e785ac990f7f09",
+  "lastOpenFiles": []
+}
