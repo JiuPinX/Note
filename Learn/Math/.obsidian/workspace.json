@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c149cb319f1f430c",
+        "id": "caaf534334a4a517",
         "type": "tabs",
         "children": [
           {
-            "id": "952a044aba803acd",
+            "id": "a97117255abd6673",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一次函数/函数的图像/描点作图法画图象.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c96e42b5a60a900",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "一次函数/函数的图像/函数图像的概念.md",
+                "file": "一次函数/函数的图像/函数的三种表现方式.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一次函数/函数的图像/函数图像的概念.md",
+                "file": "一次函数/函数的图像/函数的三种表现方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一次函数/函数的图像/函数图像的概念.md",
+                "file": "一次函数/函数的图像/函数的三种表现方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一次函数/函数的图像/函数图像的概念.md"
+                "file": "一次函数/函数的图像/函数的三种表现方式.md"
               }
             }
           }
@@ -159,11 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4c96e42b5a60a900",
+  "active": "a97117255abd6673",
   "lastOpenFiles": [
-    "一次函数/函数的图像/函数的三种表现方式.md",
-    "一次函数/函数的图像/函数图像的概念.md",
     "一次函数/函数的图像/描点作图法画图象.md",
+    "一次函数/函数的图像/函数图像的概念.md",
+    "一次函数/函数的图像/函数的三种表现方式.md",
     "一次函数/变量与函数/函数的解析式.md",
     "未命名.canvas",
     "未命名 1.canvas",
