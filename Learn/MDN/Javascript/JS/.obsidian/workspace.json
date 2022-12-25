@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "a023407932a37d50",
+    "id": "ad6f0e4f09974992",
     "type": "split",
     "children": [
       {
-        "id": "caaf534334a4a517",
+        "id": "7232580f1be11773",
         "type": "tabs",
         "children": [
           {
-            "id": "a97117255abd6673",
+            "id": "e987052d71f82cce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一次函数/函数的图像/描点作图法画图象.md",
+                "file": "文本.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "499d6e64637cde80",
+    "id": "4f2693d7e1c32d4b",
     "type": "split",
     "children": [
       {
-        "id": "45c9e9179daf3c7d",
+        "id": "29a33a05e17902d5",
         "type": "tabs",
         "children": [
           {
-            "id": "996d3529b57770d5",
+            "id": "358061da537a0699",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "f86ff451b2841b52",
+            "id": "a8280330e11c8dd2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "c6b17b37eb69f04a",
+            "id": "acf887164ee44ecf",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "fa3fa06b20d3e2aa",
+    "id": "312b0df234ef1e30",
     "type": "split",
     "children": [
       {
-        "id": "ceb5f669eb982014",
+        "id": "c09bf9e38072eaef",
         "type": "tabs",
         "children": [
           {
-            "id": "5a3a939dae8f9a29",
+            "id": "6c97fb3a65dc60ca",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一次函数/函数的图像/描点作图法画图象.md",
+                "file": "文本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "e8670252125e6f61",
+            "id": "20fe37e79f0609ef",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一次函数/函数的图像/描点作图法画图象.md",
+                "file": "文本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a5e85712bf273308",
+            "id": "8922360da746a3f9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "b00717c7179e8e2d",
+            "id": "588ac377aa6af79f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "一次函数/函数的图像/描点作图法画图象.md"
+                "file": "文本.md"
               }
             }
           }
@@ -146,15 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "996d3529b57770d5",
+  "active": "e987052d71f82cce",
   "lastOpenFiles": [
-    "一次函数/函数的图像/函数图像的概念.md",
-    "一次函数/函数的图像/函数的三种表现方式.md",
-    "一次函数/函数的图像/描点作图法画图象.md",
-    "一次函数/变量与函数/函数的解析式.md",
-    "一次函数/变量与函数/变量与函数.md",
-    "未命名.canvas",
-    "未命名 1.canvas",
-    "2022-12-23.md"
+    "对于世俗化的一些小想法.md",
+    "文本.md",
+    "为什么说异步是他喵的函数.md",
+    "记录笔记.md",
+    "火狐革命.md",
+    "火狐.md",
+    "Yibu/异步 JavaScript 简介.md",
+    "object/原型更新.md",
+    "object/函数.md",
+    "object/对象原型.md"
   ]
 }
