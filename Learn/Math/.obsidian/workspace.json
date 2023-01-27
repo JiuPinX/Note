@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一次函数/函数的图像/描点作图法画图象.md",
+                "file": "一次函数/变量与函数/变量与函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一次函数/函数的图像/描点作图法画图象.md",
+                "file": "一次函数/变量与函数/变量与函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一次函数/函数的图像/描点作图法画图象.md",
+                "file": "一次函数/变量与函数/变量与函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一次函数/函数的图像/描点作图法画图象.md"
+                "file": "一次函数/变量与函数/变量与函数.md"
               }
             }
           }
@@ -146,7 +146,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "996d3529b57770d5",
+  "active": "a97117255abd6673",
   "lastOpenFiles": [
     "一次函数/函数的图像/函数图像的概念.md",
     "一次函数/函数的图像/函数的三种表现方式.md",

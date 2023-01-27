@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "c8eec50cbbc820a4",
+    "id": "a03c90dbea34d394",
     "type": "split",
     "children": [
       {
-        "id": "26c4b71c2123d2d4",
+        "id": "7fa6701169b4e974",
         "type": "tabs",
         "children": [
           {
-            "id": "ca633b292207b17f",
+            "id": "581633a0efa07ac0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Idea/结构.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f4996882e7279901",
+    "id": "f57f7c8a6ba91921",
     "type": "split",
     "children": [
       {
-        "id": "ee64508a24f85ec7",
+        "id": "8c1256ae5c2fbf90",
         "type": "tabs",
         "children": [
           {
-            "id": "a914fb3f2144866c",
+            "id": "158314d899655a38",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "0d940e861162fd1c",
+            "id": "b3bf2c61c47e1111",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "e763cf54c480488f",
+            "id": "83240171a3261482",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -69,24 +65,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "f8ac972db38f2098",
+    "id": "ed12894bdf3399c5",
     "type": "split",
     "children": [
       {
-        "id": "2a2b76a86170861c",
+        "id": "21d3776f2c8c2a21",
         "type": "tabs",
         "children": [
           {
-            "id": "1fc91f671fc5fa3d",
+            "id": "7f6cbd3d863ab9b5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Idea/结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +93,18 @@
             }
           },
           {
-            "id": "6a6e80e9dcf31ba7",
+            "id": "6d5989a9cd99d7fa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Idea/结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "278c6e2b10197b9b",
+            "id": "ffe918428765921a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,13 +115,11 @@
             }
           },
           {
-            "id": "1c7ad0448aa0fe3f",
+            "id": "0d18d333441207a6",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Idea/结构.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,17 +139,8 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ca633b292207b17f",
+  "active": "581633a0efa07ac0",
   "lastOpenFiles": [
-    "Idea/异步.md",
-    "Idea/UI 规范.md",
-    "Idea/结构.md",
-    "JS/记录笔记.md",
-    "JS/文本.md",
-    "JS/Yibu/异步 JavaScript 简介.md",
-    "原型更新.md",
-    "为什么说异步是他喵的函数.md",
-    "函数.md",
-    "非常重要的事情.md"
+    "HTML 表格.md"
   ]
 }
