@@ -17,15 +17,3 @@
 那什么是方程呢？“含有未知数的等式”
 
 像这样，`1 + 1 = 2` 就是一个等式，而“含有未知数的等式”就是 `1 + a = 3`
-
-## 倒数
-
-如果一个数为 `a`
-
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mi>a</mi><mo>×</mo><mi>b</mi><mo>=</mo><mn>1</mn></math>
-
-像这样，这个 `b` 就是 `a` 的倒数，`a` 同时也是 `b` 的倒数
-
-从上面的式子我们可以推理出，如果一个数字为 `a`，那么它的倒数就是
-
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mfrac><mn>1</mn><mi>a</mi></mfrac></math>
