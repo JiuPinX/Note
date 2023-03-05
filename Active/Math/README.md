@@ -17,3 +17,7 @@
 那什么是方程呢？“含有未知数的等式”
 
 像这样，`1 + 1 = 2` 就是一个等式，而“含有未知数的等式”就是 `1 + a = 3`
+
+## Buff
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mfrac><msqrt><mi>a</mi></msqrt><msqrt><mi>b</mi></msqrt></mfrac><mo>=</mo><msqrt><mfrac><mi>a</mi><mi>b</mi></mfrac></msqrt><mo stretchy="false">(</mo><mi>a</mi><mo>≥</mo><mn>0</mn><mo>,</mo><mi>b</mi><mo>&gt;</mo><mn>0</mn><mo stretchy="false">)</mo></math>
